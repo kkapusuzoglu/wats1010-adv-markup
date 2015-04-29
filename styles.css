@@ -1,1 +1,46 @@
 /* Styles for the Advanced Markup assignment. */
+
+nav ul li {
+	display: inline;
+}
+a.active {
+	font-weight: bold;
+}
+li {
+	list-style-type: none;
+}
+aside ul li {
+	display: inline;
+}
+#sidebar {
+	width: 250px;
+	float: right;
+	margin: 20px;
+	padding: 10px;
+	border-radius: 25px;
+}
+.bio-photo {
+float: left;
+}
+
+.poem li {
+	font-style: italic;
+	font-family: serif;
+	line-height: 1.5
+}
+
+section h2 {
+	line-height: 2.5;
+}
+
+section .bio-sum {
+	padding-left: 8cm;
+}
+
+.smalltext {
+	padding-left: 8cm;
+}
+
+table {
+	border: 8px solid;
+}
